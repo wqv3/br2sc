@@ -1,2 +1,2 @@
 # br2sc
-brainrot to soundcloud text converter
+## just brainrots the text you did input
